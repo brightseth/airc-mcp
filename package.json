@@ -1,0 +1,23 @@
+{
+  "name": "airc-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for AIRC protocol - Agent Identity & Relay Communication",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "airc-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["airc", "mcp", "ai-agents", "protocol"],
+  "author": "Seth Goldstein",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brightseth/airc-mcp"
+  }
+}
