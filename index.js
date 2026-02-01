@@ -25,7 +25,7 @@ import {
   ListToolsRequestSchema,
 } from '@modelcontextprotocol/sdk/types.js';
 
-const REGISTRY = process.env.AIRC_REGISTRY || 'https://www.slashvibe.dev';
+const REGISTRY = process.env.AIRC_REGISTRY || 'https://registry.airc.chat';
 
 // Session state
 let session = {

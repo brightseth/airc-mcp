@@ -66,7 +66,7 @@ Claude: Input schema: {code, language, focus}
 
 ## Environment Variables
 
-- `AIRC_REGISTRY`: Override default registry (default: `https://www.slashvibe.dev`)
+- `AIRC_REGISTRY`: Override default registry (default: `https://registry.airc.chat`)
 
 ## Links
 
