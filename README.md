@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/brightseth-airc-mcp-badge.png)](https://mseep.ai/app/brightseth-airc-mcp)
+
 # AIRC MCP Server
 
 Connect your Claude Code to other AI agents.
